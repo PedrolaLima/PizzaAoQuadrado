@@ -1,0 +1,545 @@
+F:\Arquivos\FATEC\Pizza ao Quadrado\Pizzaria-master\Pizzaria-master\Pizzaria\bin\Debug\My Project\db_pizzaria.mdf
+F:\Arquivos\FATEC\Pizza ao Quadrado\Pizzaria-master\Pizzaria-master\Pizzaria\bin\Debug\My Project\db_pizzaria_log.ldf
+F:\Arquivos\FATEC\Pizza ao Quadrado\Pizzaria-master\Pizzaria-master\Pizzaria\bin\Debug\Bunifu_UI_v1.52.dll
+F:\Arquivos\FATEC\Pizza ao Quadrado\Pizzaria-master\Pizzaria-master\Pizzaria\bin\Debug\Guna.UI.dll
+F:\Arquivos\FATEC\Pizza ao Quadrado\Pizzaria-master\Pizzaria-master\Pizzaria\bin\Debug\MetroFramework.dll
+F:\Arquivos\FATEC\Pizza ao Quadrado\Pizzaria-master\Pizzaria-master\Pizzaria\bin\Debug\Microsoft.Data.Tools.Components.dll
+F:\Arquivos\FATEC\Pizza ao Quadrado\Pizzaria-master\Pizzaria-master\Pizzaria\bin\Debug\Microsoft.Data.Tools.Schema.Sql.dll
+F:\Arquivos\FATEC\Pizza ao Quadrado\Pizzaria-master\Pizzaria-master\Pizzaria\bin\Debug\Microsoft.Data.Tools.Schema.Sql.UnitTesting.dll
+F:\Arquivos\FATEC\Pizza ao Quadrado\Pizzaria-master\Pizzaria-master\Pizzaria\bin\Debug\Microsoft.Data.Tools.Schema.Sql.UnitTestingAdapter.dll
+F:\Arquivos\FATEC\Pizza ao Quadrado\Pizzaria-master\Pizzaria-master\Pizzaria\bin\Debug\Microsoft.Data.Tools.Utilities.dll
+F:\Arquivos\FATEC\Pizza ao Quadrado\Pizzaria-master\Pizzaria-master\Pizzaria\bin\Debug\Microsoft.SqlServer.TransactSql.ScriptDom.dll
+F:\Arquivos\FATEC\Pizza ao Quadrado\Pizzaria-master\Pizzaria-master\Pizzaria\bin\Debug\Microsoft.Data.SqlClient.dll
+F:\Arquivos\FATEC\Pizza ao Quadrado\Pizzaria-master\Pizzaria-master\Pizzaria\bin\Debug\Microsoft.Identity.Client.dll
+F:\Arquivos\FATEC\Pizza ao Quadrado\Pizzaria-master\Pizzaria-master\Pizzaria\bin\Debug\Microsoft.SqlServer.Types.dll
+F:\Arquivos\FATEC\Pizza ao Quadrado\Pizzaria-master\Pizzaria-master\Pizzaria\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+F:\Arquivos\FATEC\Pizza ao Quadrado\Pizzaria-master\Pizzaria-master\Pizzaria\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\Arquivos\FATEC\Pizza ao Quadrado\Pizzaria-master\Pizzaria-master\Pizzaria\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+F:\Arquivos\FATEC\Pizza ao Quadrado\Pizzaria-master\Pizzaria-master\Pizzaria\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+F:\Arquivos\FATEC\Pizza ao Quadrado\Pizzaria-master\Pizzaria-master\Pizzaria\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+F:\Arquivos\FATEC\Pizza ao Quadrado\Pizzaria-master\Pizzaria-master\Pizzaria\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\Arquivos\FATEC\Pizza ao Quadrado\Pizzaria-master\Pizzaria-master\Pizzaria\bin\Debug\Microsoft.IdentityModel.Logging.dll
+F:\Arquivos\FATEC\Pizza ao Quadrado\Pizzaria-master\Pizzaria-master\Pizzaria\bin\Debug\pt-BR\Microsoft.Data.Tools.Schema.Sql.resources.dll
+F:\Arquivos\FATEC\Pizza ao Quadrado\Pizzaria-master\Pizzaria-master\Pizzaria\bin\Debug\pt-BR\Microsoft.Data.Tools.Schema.Sql.UnitTesting.resources.dll
+F:\Arquivos\FATEC\Pizza ao Quadrado\Pizzaria-master\Pizzaria-master\Pizzaria\bin\Debug\pt-BR\Microsoft.Data.Tools.Utilities.resources.dll
+F:\Arquivos\FATEC\Pizza ao Quadrado\Pizzaria-master\Pizzaria-master\Pizzaria\bin\Debug\pt-BR\Microsoft.SqlServer.TransactSql.ScriptDom.resources.dll
+F:\Arquivos\FATEC\Pizza ao Quadrado\Pizzaria-master\Pizzaria-master\Pizzaria\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+F:\Arquivos\FATEC\Pizza ao Quadrado\Pizzaria-master\Pizzaria-master\Pizzaria\bin\Debug\pt-BR\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+F:\Arquivos\FATEC\Pizza ao Quadrado\Pizzaria-master\Pizzaria-master\Pizzaria\obj\Debug\Pizzaria.vbproj.AssemblyReference.cache
+F:\Arquivos\FATEC\Pizza ao Quadrado\Pizzaria-master\Pizzaria-master\Pizzaria\obj\Debug\Pizzaria.vbproj.SuggestedBindingRedirects.cache
+F:\Arquivos\FATEC\Pizza ao Quadrado\Pizzaria-master\Pizzaria-master\Pizzaria\obj\Debug\Pizzaria.exe.config
+F:\Arquivos\FATEC\Pizza ao Quadrado\Pizzaria-master\Pizzaria-master\Pizzaria\obj\Debug\Pizzaria.Admin.resources
+F:\Arquivos\FATEC\Pizza ao Quadrado\Pizzaria-master\Pizzaria-master\Pizzaria\obj\Debug\Pizzaria.Cadastro.resources
+F:\Arquivos\FATEC\Pizza ao Quadrado\Pizzaria-master\Pizzaria-master\Pizzaria\obj\Debug\Pizzaria.Dashboard.resources
+F:\Arquivos\FATEC\Pizza ao Quadrado\Pizzaria-master\Pizzaria-master\Pizzaria\obj\Debug\Pizzaria.Form1.resources
+F:\Arquivos\FATEC\Pizza ao Quadrado\Pizzaria-master\Pizzaria-master\Pizzaria\obj\Debug\Pizzaria.Form2.resources
+F:\Arquivos\FATEC\Pizza ao Quadrado\Pizzaria-master\Pizzaria-master\Pizzaria\obj\Debug\Pizzaria.Historico.resources
+F:\Arquivos\FATEC\Pizza ao Quadrado\Pizzaria-master\Pizzaria-master\Pizzaria\obj\Debug\Pizzaria.Resources.resources
+F:\Arquivos\FATEC\Pizza ao Quadrado\Pizzaria-master\Pizzaria-master\Pizzaria\obj\Debug\Pizzaria.Relatorio.resources
+F:\Arquivos\FATEC\Pizza ao Quadrado\Pizzaria-master\Pizzaria-master\Pizzaria\obj\Debug\Pizzaria.vbproj.GenerateResource.cache
+F:\Arquivos\FATEC\Pizza ao Quadrado\Pizzaria-master\Pizzaria-master\Pizzaria\obj\Debug\Pizzaria.vbproj.CoreCompileInputs.cache
+F:\Arquivos\FATEC\Pizza ao Quadrado\Pizzaria-master\Pizzaria-master\Pizzaria\obj\Debug\Pizzaria.vbproj.CopyComplete
+F:\Arquivos\FATEC\Pizza ao Quadrado\Pizzaria-master\Pizzaria-master\Pizzaria\obj\Debug\Pizzaria.exe
+F:\Arquivos\FATEC\Pizza ao Quadrado\Pizzaria-master\Pizzaria-master\Pizzaria\obj\Debug\Pizzaria.xml
+F:\Arquivos\FATEC\Pizza ao Quadrado\Pizzaria-master\Pizzaria-master\Pizzaria\obj\Debug\Pizzaria.pdb
+F:\Arquivos\FATEC\Pizza ao Quadrado\Pizzaria-master\Pizzaria-master\Pizzaria\bin\Debug\Pizzaria.exe.config
+F:\Arquivos\FATEC\Pizza ao Quadrado\Pizzaria-master\Pizzaria-master\Pizzaria\bin\Debug\Pizzaria.exe
+F:\Arquivos\FATEC\Pizza ao Quadrado\Pizzaria-master\Pizzaria-master\Pizzaria\bin\Debug\Pizzaria.pdb
+F:\Arquivos\FATEC\Pizza ao Quadrado\Pizzaria-master\Pizzaria-master\Pizzaria\bin\Debug\Pizzaria.xml
+C:\Users\Larissa\Downloads\Pizzaria-master\Pizzaria-master\Pizzaria\bin\Debug\My Project\db_pizzaria.mdf
+C:\Users\Larissa\Downloads\Pizzaria-master\Pizzaria-master\Pizzaria\bin\Debug\My Project\db_pizzaria_log.ldf
+C:\Users\Larissa\Downloads\Pizzaria-master\Pizzaria-master\Pizzaria\bin\Debug\Pizzaria.exe.config
+C:\Users\Larissa\Downloads\Pizzaria-master\Pizzaria-master\Pizzaria\bin\Debug\Pizzaria.exe
+C:\Users\Larissa\Downloads\Pizzaria-master\Pizzaria-master\Pizzaria\bin\Debug\Pizzaria.pdb
+C:\Users\Larissa\Downloads\Pizzaria-master\Pizzaria-master\Pizzaria\bin\Debug\Pizzaria.xml
+C:\Users\Larissa\Downloads\Pizzaria-master\Pizzaria-master\Pizzaria\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\Larissa\Downloads\Pizzaria-master\Pizzaria-master\Pizzaria\bin\Debug\Guna.UI.dll
+C:\Users\Larissa\Downloads\Pizzaria-master\Pizzaria-master\Pizzaria\bin\Debug\MetroFramework.dll
+C:\Users\Larissa\Downloads\Pizzaria-master\Pizzaria-master\Pizzaria\bin\Debug\Microsoft.Data.Tools.Components.dll
+C:\Users\Larissa\Downloads\Pizzaria-master\Pizzaria-master\Pizzaria\bin\Debug\Microsoft.Data.Tools.Schema.Sql.dll
+C:\Users\Larissa\Downloads\Pizzaria-master\Pizzaria-master\Pizzaria\bin\Debug\Microsoft.Data.Tools.Schema.Sql.UnitTesting.dll
+C:\Users\Larissa\Downloads\Pizzaria-master\Pizzaria-master\Pizzaria\bin\Debug\Microsoft.Data.Tools.Schema.Sql.UnitTestingAdapter.dll
+C:\Users\Larissa\Downloads\Pizzaria-master\Pizzaria-master\Pizzaria\bin\Debug\Microsoft.Data.Tools.Utilities.dll
+C:\Users\Larissa\Downloads\Pizzaria-master\Pizzaria-master\Pizzaria\bin\Debug\Microsoft.SqlServer.TransactSql.ScriptDom.dll
+C:\Users\Larissa\Downloads\Pizzaria-master\Pizzaria-master\Pizzaria\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Users\Larissa\Downloads\Pizzaria-master\Pizzaria-master\Pizzaria\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\Larissa\Downloads\Pizzaria-master\Pizzaria-master\Pizzaria\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Larissa\Downloads\Pizzaria-master\Pizzaria-master\Pizzaria\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Larissa\Downloads\Pizzaria-master\Pizzaria-master\Pizzaria\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Larissa\Downloads\Pizzaria-master\Pizzaria-master\Pizzaria\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Larissa\Downloads\Pizzaria-master\Pizzaria-master\Pizzaria\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Larissa\Downloads\Pizzaria-master\Pizzaria-master\Pizzaria\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Larissa\Downloads\Pizzaria-master\Pizzaria-master\Pizzaria\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Larissa\Downloads\Pizzaria-master\Pizzaria-master\Pizzaria\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\Larissa\Downloads\Pizzaria-master\Pizzaria-master\Pizzaria\bin\Debug\pt-BR\Microsoft.Data.Tools.Schema.Sql.resources.dll
+C:\Users\Larissa\Downloads\Pizzaria-master\Pizzaria-master\Pizzaria\bin\Debug\pt-BR\Microsoft.Data.Tools.Schema.Sql.UnitTesting.resources.dll
+C:\Users\Larissa\Downloads\Pizzaria-master\Pizzaria-master\Pizzaria\bin\Debug\pt-BR\Microsoft.Data.Tools.Utilities.resources.dll
+C:\Users\Larissa\Downloads\Pizzaria-master\Pizzaria-master\Pizzaria\bin\Debug\pt-BR\Microsoft.SqlServer.TransactSql.ScriptDom.resources.dll
+C:\Users\Larissa\Downloads\Pizzaria-master\Pizzaria-master\Pizzaria\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Larissa\Downloads\Pizzaria-master\Pizzaria-master\Pizzaria\bin\Debug\pt-BR\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\Larissa\Downloads\Pizzaria-master\Pizzaria-master\Pizzaria\obj\Debug\Pizzaria.vbproj.AssemblyReference.cache
+C:\Users\Larissa\Downloads\Pizzaria-master\Pizzaria-master\Pizzaria\obj\Debug\Pizzaria.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Larissa\Downloads\Pizzaria-master\Pizzaria-master\Pizzaria\obj\Debug\Pizzaria.exe.config
+C:\Users\Larissa\Downloads\Pizzaria-master\Pizzaria-master\Pizzaria\obj\Debug\Pizzaria.Admin.resources
+C:\Users\Larissa\Downloads\Pizzaria-master\Pizzaria-master\Pizzaria\obj\Debug\Pizzaria.Cadastro.resources
+C:\Users\Larissa\Downloads\Pizzaria-master\Pizzaria-master\Pizzaria\obj\Debug\Pizzaria.Dashboard.resources
+C:\Users\Larissa\Downloads\Pizzaria-master\Pizzaria-master\Pizzaria\obj\Debug\Pizzaria.EsqueciSenha.resources
+C:\Users\Larissa\Downloads\Pizzaria-master\Pizzaria-master\Pizzaria\obj\Debug\Pizzaria.Form1.resources
+C:\Users\Larissa\Downloads\Pizzaria-master\Pizzaria-master\Pizzaria\obj\Debug\Pizzaria.Form2.resources
+C:\Users\Larissa\Downloads\Pizzaria-master\Pizzaria-master\Pizzaria\obj\Debug\Pizzaria.Historico.resources
+C:\Users\Larissa\Downloads\Pizzaria-master\Pizzaria-master\Pizzaria\obj\Debug\Pizzaria.Resources.resources
+C:\Users\Larissa\Downloads\Pizzaria-master\Pizzaria-master\Pizzaria\obj\Debug\Pizzaria.vbproj.GenerateResource.cache
+C:\Users\Larissa\Downloads\Pizzaria-master\Pizzaria-master\Pizzaria\obj\Debug\Pizzaria.vbproj.CoreCompileInputs.cache
+C:\Users\Larissa\Downloads\Pizzaria-master\Pizzaria-master\Pizzaria\obj\Debug\Pizzaria.vbproj.CopyComplete
+C:\Users\Larissa\Downloads\Pizzaria-master\Pizzaria-master\Pizzaria\obj\Debug\Pizzaria.exe
+C:\Users\Larissa\Downloads\Pizzaria-master\Pizzaria-master\Pizzaria\obj\Debug\Pizzaria.xml
+C:\Users\Larissa\Downloads\Pizzaria-master\Pizzaria-master\Pizzaria\obj\Debug\Pizzaria.pdb
+C:\Users\Larissa\Downloads\Pizzaria-master\Pizzaria-master\Pizzaria\obj\Debug\Pizzaria.CadastroCliente.resources
+C:\Users\Larissa\Downloads\Pizzaria-master\Pizzaria-master\Pizzaria\obj\Debug\Pizzaria.Caixa.resources
+C:\Users\Larissa\Downloads\Pizzaria-master\Pizzaria-master\Pizzaria\obj\Debug\Pizzaria.AdicionarPizza.resources
+C:\Users\Larissa\Downloads\Pizzaria-master\Pizzaria-master\Pizzaria\obj\Debug\Pizzaria.Pedido.resources
+D:\Arquivos\Pizzaria-master\Pizzaria-master\Pizzaria\bin\Debug\My Project\db_pizzaria.mdf
+D:\Arquivos\Pizzaria-master\Pizzaria-master\Pizzaria\bin\Debug\My Project\db_pizzaria_log.ldf
+D:\Arquivos\Pizzaria-master\Pizzaria-master\Pizzaria\bin\Debug\Pizzaria.exe.config
+D:\Arquivos\Pizzaria-master\Pizzaria-master\Pizzaria\bin\Debug\Pizzaria.exe
+D:\Arquivos\Pizzaria-master\Pizzaria-master\Pizzaria\bin\Debug\Pizzaria.pdb
+D:\Arquivos\Pizzaria-master\Pizzaria-master\Pizzaria\bin\Debug\Pizzaria.xml
+D:\Arquivos\Pizzaria-master\Pizzaria-master\Pizzaria\bin\Debug\Bunifu_UI_v1.52.dll
+D:\Arquivos\Pizzaria-master\Pizzaria-master\Pizzaria\bin\Debug\Guna.UI.dll
+D:\Arquivos\Pizzaria-master\Pizzaria-master\Pizzaria\bin\Debug\MetroFramework.dll
+D:\Arquivos\Pizzaria-master\Pizzaria-master\Pizzaria\bin\Debug\Microsoft.Data.Tools.Components.dll
+D:\Arquivos\Pizzaria-master\Pizzaria-master\Pizzaria\bin\Debug\Microsoft.Data.Tools.Schema.Sql.UnitTesting.dll
+D:\Arquivos\Pizzaria-master\Pizzaria-master\Pizzaria\bin\Debug\Microsoft.Data.Tools.Schema.Sql.UnitTestingAdapter.dll
+D:\Arquivos\Pizzaria-master\Pizzaria-master\Pizzaria\bin\Debug\Microsoft.Data.Tools.Utilities.dll
+D:\Arquivos\Pizzaria-master\Pizzaria-master\Pizzaria\bin\Debug\Microsoft.SqlServer.TransactSql.ScriptDom.dll
+D:\Arquivos\Pizzaria-master\Pizzaria-master\Pizzaria\bin\Debug\Microsoft.Data.SqlClient.dll
+D:\Arquivos\Pizzaria-master\Pizzaria-master\Pizzaria\bin\Debug\Microsoft.Identity.Client.dll
+D:\Arquivos\Pizzaria-master\Pizzaria-master\Pizzaria\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Arquivos\Pizzaria-master\Pizzaria-master\Pizzaria\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Arquivos\Pizzaria-master\Pizzaria-master\Pizzaria\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Arquivos\Pizzaria-master\Pizzaria-master\Pizzaria\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+D:\Arquivos\Pizzaria-master\Pizzaria-master\Pizzaria\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+D:\Arquivos\Pizzaria-master\Pizzaria-master\Pizzaria\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+D:\Arquivos\Pizzaria-master\Pizzaria-master\Pizzaria\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Arquivos\Pizzaria-master\Pizzaria-master\Pizzaria\bin\Debug\Microsoft.IdentityModel.Logging.dll
+D:\Arquivos\Pizzaria-master\Pizzaria-master\Pizzaria\bin\Debug\pt-BR\Microsoft.Data.Tools.Schema.Sql.resources.dll
+D:\Arquivos\Pizzaria-master\Pizzaria-master\Pizzaria\bin\Debug\pt-BR\Microsoft.Data.Tools.Schema.Sql.UnitTesting.resources.dll
+D:\Arquivos\Pizzaria-master\Pizzaria-master\Pizzaria\bin\Debug\pt-BR\Microsoft.Data.Tools.Components.resources.dll
+D:\Arquivos\Pizzaria-master\Pizzaria-master\Pizzaria\bin\Debug\pt-BR\Microsoft.Data.Tools.Utilities.resources.dll
+D:\Arquivos\Pizzaria-master\Pizzaria-master\Pizzaria\bin\Debug\pt-BR\Microsoft.SqlServer.TransactSql.ScriptDom.resources.dll
+D:\Arquivos\Pizzaria-master\Pizzaria-master\Pizzaria\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\Arquivos\Pizzaria-master\Pizzaria-master\Pizzaria\bin\Debug\pt-BR\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+D:\Arquivos\Pizzaria-master\Pizzaria-master\Pizzaria\obj\Debug\Pizzaria.vbproj.AssemblyReference.cache
+D:\Arquivos\Pizzaria-master\Pizzaria-master\Pizzaria\obj\Debug\Pizzaria.vbproj.SuggestedBindingRedirects.cache
+D:\Arquivos\Pizzaria-master\Pizzaria-master\Pizzaria\obj\Debug\Pizzaria.exe.config
+D:\Arquivos\Pizzaria-master\Pizzaria-master\Pizzaria\obj\Debug\Pizzaria.AdicionarPizza.resources
+D:\Arquivos\Pizzaria-master\Pizzaria-master\Pizzaria\obj\Debug\Pizzaria.Admin.resources
+D:\Arquivos\Pizzaria-master\Pizzaria-master\Pizzaria\obj\Debug\Pizzaria.Cadastro.resources
+D:\Arquivos\Pizzaria-master\Pizzaria-master\Pizzaria\obj\Debug\Pizzaria.CadastroCliente.resources
+D:\Arquivos\Pizzaria-master\Pizzaria-master\Pizzaria\obj\Debug\Pizzaria.Dashboard.resources
+D:\Arquivos\Pizzaria-master\Pizzaria-master\Pizzaria\obj\Debug\Pizzaria.EsqueciSenha.resources
+D:\Arquivos\Pizzaria-master\Pizzaria-master\Pizzaria\obj\Debug\Pizzaria.Form1.resources
+D:\Arquivos\Pizzaria-master\Pizzaria-master\Pizzaria\obj\Debug\Pizzaria.Form2.resources
+D:\Arquivos\Pizzaria-master\Pizzaria-master\Pizzaria\obj\Debug\Pizzaria.Historico.resources
+D:\Arquivos\Pizzaria-master\Pizzaria-master\Pizzaria\obj\Debug\Pizzaria.Resources.resources
+D:\Arquivos\Pizzaria-master\Pizzaria-master\Pizzaria\obj\Debug\Pizzaria.Caixa.resources
+D:\Arquivos\Pizzaria-master\Pizzaria-master\Pizzaria\obj\Debug\Pizzaria.Pedido.resources
+D:\Arquivos\Pizzaria-master\Pizzaria-master\Pizzaria\obj\Debug\Pizzaria.vbproj.GenerateResource.cache
+D:\Arquivos\Pizzaria-master\Pizzaria-master\Pizzaria\obj\Debug\Pizzaria.vbproj.CoreCompileInputs.cache
+D:\Arquivos\Pizzaria-master\Pizzaria-master\Pizzaria\obj\Debug\Pizzaria.vbproj.CopyComplete
+D:\Arquivos\Pizzaria-master\Pizzaria-master\Pizzaria\obj\Debug\Pizzaria.exe
+D:\Arquivos\Pizzaria-master\Pizzaria-master\Pizzaria\obj\Debug\Pizzaria.xml
+D:\Arquivos\Pizzaria-master\Pizzaria-master\Pizzaria\obj\Debug\Pizzaria.pdb
+C:\Users\Arthur\Desktop\Pizzaria-master\Pizzaria-master\Pizzaria\obj\Debug\Pizzaria.vbproj.AssemblyReference.cache
+C:\Users\Arthur\Desktop\Pizzaria-master\Pizzaria-master\Pizzaria\obj\Debug\Pizzaria.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Arthur\Desktop\Pizzaria-master\Pizzaria-master\Pizzaria\obj\Debug\Pizzaria.exe.config
+C:\Users\Arthur\Desktop\Pizzaria-master\Pizzaria-master\Pizzaria\obj\Debug\Pizzaria.AdicionarPizza.resources
+C:\Users\Arthur\Desktop\Pizzaria-master\Pizzaria-master\Pizzaria\obj\Debug\Pizzaria.Admin.resources
+C:\Users\Arthur\Desktop\Pizzaria-master\Pizzaria-master\Pizzaria\obj\Debug\Pizzaria.Cadastro.resources
+C:\Users\Arthur\Desktop\Pizzaria-master\Pizzaria-master\Pizzaria\obj\Debug\Pizzaria.CadastroCliente.resources
+C:\Users\Arthur\Desktop\Pizzaria-master\Pizzaria-master\Pizzaria\obj\Debug\Pizzaria.Dashboard.resources
+C:\Users\Arthur\Desktop\Pizzaria-master\Pizzaria-master\Pizzaria\obj\Debug\Pizzaria.EsqueciSenha.resources
+C:\Users\Arthur\Desktop\Pizzaria-master\Pizzaria-master\Pizzaria\obj\Debug\Pizzaria.Form1.resources
+C:\Users\Arthur\Desktop\Pizzaria-master\Pizzaria-master\Pizzaria\obj\Debug\Pizzaria.Form2.resources
+C:\Users\Arthur\Desktop\Pizzaria-master\Pizzaria-master\Pizzaria\obj\Debug\Pizzaria.Historico.resources
+C:\Users\Arthur\Desktop\Pizzaria-master\Pizzaria-master\Pizzaria\obj\Debug\Pizzaria.Resources.resources
+C:\Users\Arthur\Desktop\Pizzaria-master\Pizzaria-master\Pizzaria\obj\Debug\Pizzaria.Caixa.resources
+C:\Users\Arthur\Desktop\Pizzaria-master\Pizzaria-master\Pizzaria\obj\Debug\Pizzaria.Pedido.resources
+C:\Users\Arthur\Desktop\Pizzaria-master\Pizzaria-master\Pizzaria\obj\Debug\Pizzaria.vbproj.GenerateResource.cache
+C:\Users\Arthur\Desktop\Pizzaria-master\Pizzaria-master\Pizzaria\obj\Debug\Pizzaria.vbproj.CoreCompileInputs.cache
+C:\Users\Arthur\Desktop\Pizzaria-master\Pizzaria-master\Pizzaria\obj\Debug\Pizzaria.exe
+C:\Users\Arthur\Desktop\Pizzaria-master\Pizzaria-master\Pizzaria\obj\Debug\Pizzaria.xml
+C:\Users\Arthur\Desktop\Pizzaria-master\Pizzaria-master\Pizzaria\obj\Debug\Pizzaria.pdb
+D:\Users\Usuario\Downloads\Pizzaria-master\Pizzaria\bin\Debug\Pizzaria.pdb
+D:\Users\Usuario\Downloads\Pizzaria-master\Pizzaria\bin\Debug\Guna.UI.dll
+D:\Users\Usuario\Downloads\Pizzaria-master\Pizzaria\bin\Debug\Guna.UI2.dll
+D:\Users\Usuario\Downloads\Pizzaria-master\Pizzaria\bin\Debug\My Project\db_pizzaria.mdf
+D:\Users\Usuario\Downloads\Pizzaria-master\Pizzaria\bin\Debug\My Project\db_pizzaria_log.ldf
+D:\Users\Usuario\Downloads\Pizzaria-master\Pizzaria\bin\Debug\Pizzaria.exe.config
+D:\Users\Usuario\Downloads\Pizzaria-master\Pizzaria\bin\Debug\Pizzaria.exe
+D:\Users\Usuario\Downloads\Pizzaria-master\Pizzaria\bin\Debug\Bunifu_UI_v1.52.dll
+D:\Users\Usuario\Downloads\Pizzaria-master\Pizzaria\bin\Debug\MetroFramework.dll
+D:\Users\Usuario\Downloads\Pizzaria-master\Pizzaria\bin\Debug\Microsoft.Data.Tools.Components.dll
+D:\Users\Usuario\Downloads\Pizzaria-master\Pizzaria\bin\Debug\Microsoft.Data.Tools.Schema.Sql.dll
+D:\Users\Usuario\Downloads\Pizzaria-master\Pizzaria\bin\Debug\Microsoft.Data.Tools.Schema.Sql.UnitTesting.dll
+D:\Users\Usuario\Downloads\Pizzaria-master\Pizzaria\bin\Debug\Microsoft.Data.Tools.Schema.Sql.UnitTestingAdapter.dll
+D:\Users\Usuario\Downloads\Pizzaria-master\Pizzaria\bin\Debug\Microsoft.Data.Tools.Utilities.dll
+D:\Users\Usuario\Downloads\Pizzaria-master\Pizzaria\bin\Debug\Microsoft.SqlServer.TransactSql.ScriptDom.dll
+D:\Users\Usuario\Downloads\Pizzaria-master\Pizzaria\bin\Debug\Microsoft.Data.SqlClient.dll
+D:\Users\Usuario\Downloads\Pizzaria-master\Pizzaria\bin\Debug\Microsoft.Identity.Client.dll
+D:\Users\Usuario\Downloads\Pizzaria-master\Pizzaria\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Users\Usuario\Downloads\Pizzaria-master\Pizzaria\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Users\Usuario\Downloads\Pizzaria-master\Pizzaria\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Users\Usuario\Downloads\Pizzaria-master\Pizzaria\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+D:\Users\Usuario\Downloads\Pizzaria-master\Pizzaria\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+D:\Users\Usuario\Downloads\Pizzaria-master\Pizzaria\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+D:\Users\Usuario\Downloads\Pizzaria-master\Pizzaria\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Users\Usuario\Downloads\Pizzaria-master\Pizzaria\bin\Debug\Microsoft.IdentityModel.Logging.dll
+D:\Users\Usuario\Downloads\Pizzaria-master\Pizzaria\bin\Debug\pt-BR\Microsoft.Data.Tools.Schema.Sql.resources.dll
+D:\Users\Usuario\Downloads\Pizzaria-master\Pizzaria\bin\Debug\pt-BR\Microsoft.Data.Tools.Schema.Sql.UnitTesting.resources.dll
+D:\Users\Usuario\Downloads\Pizzaria-master\Pizzaria\bin\Debug\pt-BR\Microsoft.Data.Tools.Utilities.resources.dll
+D:\Users\Usuario\Downloads\Pizzaria-master\Pizzaria\bin\Debug\pt-BR\Microsoft.SqlServer.TransactSql.ScriptDom.resources.dll
+D:\Users\Usuario\Downloads\Pizzaria-master\Pizzaria\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\Users\Usuario\Downloads\Pizzaria-master\Pizzaria\bin\Debug\pt-BR\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+D:\Users\Usuario\Downloads\Pizzaria-master\Pizzaria\obj\Debug\Pizzaria.vbproj.AssemblyReference.cache
+D:\Users\Usuario\Downloads\Pizzaria-master\Pizzaria\obj\Debug\Pizzaria.vbproj.SuggestedBindingRedirects.cache
+D:\Users\Usuario\Downloads\Pizzaria-master\Pizzaria\obj\Debug\Pizzaria.exe.config
+D:\Users\Usuario\Downloads\Pizzaria-master\Pizzaria\obj\Debug\Pizzaria.AdicionarPizza.resources
+D:\Users\Usuario\Downloads\Pizzaria-master\Pizzaria\obj\Debug\Pizzaria.Admin.resources
+D:\Users\Usuario\Downloads\Pizzaria-master\Pizzaria\obj\Debug\Pizzaria.Cadastro.resources
+D:\Users\Usuario\Downloads\Pizzaria-master\Pizzaria\obj\Debug\Pizzaria.CadastroCliente.resources
+D:\Users\Usuario\Downloads\Pizzaria-master\Pizzaria\obj\Debug\Pizzaria.Dashboard.resources
+D:\Users\Usuario\Downloads\Pizzaria-master\Pizzaria\obj\Debug\Pizzaria.EsqueciSenha.resources
+D:\Users\Usuario\Downloads\Pizzaria-master\Pizzaria\obj\Debug\Pizzaria.Form1.resources
+D:\Users\Usuario\Downloads\Pizzaria-master\Pizzaria\obj\Debug\Pizzaria.Form2.resources
+D:\Users\Usuario\Downloads\Pizzaria-master\Pizzaria\obj\Debug\Pizzaria.Historico.resources
+D:\Users\Usuario\Downloads\Pizzaria-master\Pizzaria\obj\Debug\Pizzaria.Resources.resources
+D:\Users\Usuario\Downloads\Pizzaria-master\Pizzaria\obj\Debug\Pizzaria.Caixa.resources
+D:\Users\Usuario\Downloads\Pizzaria-master\Pizzaria\obj\Debug\Pizzaria.Pedido.resources
+D:\Users\Usuario\Downloads\Pizzaria-master\Pizzaria\obj\Debug\Pizzaria.vbproj.GenerateResource.cache
+D:\Users\Usuario\Downloads\Pizzaria-master\Pizzaria\obj\Debug\Pizzaria.vbproj.CoreCompileInputs.cache
+D:\Users\Usuario\Downloads\Pizzaria-master\Pizzaria\obj\Debug\Pizzaria.vbproj.CopyComplete
+D:\Users\Usuario\Downloads\Pizzaria-master\Pizzaria\obj\Debug\Pizzaria.exe
+D:\Users\Usuario\Downloads\Pizzaria-master\Pizzaria\obj\Debug\Pizzaria.xml
+D:\Users\Usuario\Downloads\Pizzaria-master\Pizzaria\obj\Debug\Pizzaria.pdb
+D:\Users\Usuario\Downloads\Pizzaria-master\Pizzaria\bin\Debug\Pizzaria.xml
+D:\Users\Usuario\Downloads\Pizzaria-master\Pizzaria\obj\Debug\Pizzaria.Profile.resources
+F:\Arquivos\FATEC\Pizza ao Quadrado\Pizzaria-master\Pizzaria\bin\Debug\My Project\db_pizzaria.mdf
+F:\Arquivos\FATEC\Pizza ao Quadrado\Pizzaria-master\Pizzaria\bin\Debug\My Project\db_pizzaria_log.ldf
+F:\Arquivos\FATEC\Pizza ao Quadrado\Pizzaria-master\Pizzaria\bin\Debug\Pizzaria.exe.config
+F:\Arquivos\FATEC\Pizza ao Quadrado\Pizzaria-master\Pizzaria\bin\Debug\Pizzaria.exe
+F:\Arquivos\FATEC\Pizza ao Quadrado\Pizzaria-master\Pizzaria\bin\Debug\Pizzaria.pdb
+F:\Arquivos\FATEC\Pizza ao Quadrado\Pizzaria-master\Pizzaria\bin\Debug\Pizzaria.xml
+F:\Arquivos\FATEC\Pizza ao Quadrado\Pizzaria-master\Pizzaria\bin\Debug\Bunifu_UI_v1.52.dll
+F:\Arquivos\FATEC\Pizza ao Quadrado\Pizzaria-master\Pizzaria\bin\Debug\Guna.UI.dll
+F:\Arquivos\FATEC\Pizza ao Quadrado\Pizzaria-master\Pizzaria\bin\Debug\Guna.UI2.dll
+F:\Arquivos\FATEC\Pizza ao Quadrado\Pizzaria-master\Pizzaria\bin\Debug\MetroFramework.dll
+F:\Arquivos\FATEC\Pizza ao Quadrado\Pizzaria-master\Pizzaria\bin\Debug\Microsoft.Data.Tools.Components.dll
+F:\Arquivos\FATEC\Pizza ao Quadrado\Pizzaria-master\Pizzaria\bin\Debug\Microsoft.Data.Tools.Schema.Sql.dll
+F:\Arquivos\FATEC\Pizza ao Quadrado\Pizzaria-master\Pizzaria\bin\Debug\Microsoft.Data.Tools.Schema.Sql.UnitTesting.dll
+F:\Arquivos\FATEC\Pizza ao Quadrado\Pizzaria-master\Pizzaria\bin\Debug\Microsoft.Data.Tools.Schema.Sql.UnitTestingAdapter.dll
+F:\Arquivos\FATEC\Pizza ao Quadrado\Pizzaria-master\Pizzaria\bin\Debug\Microsoft.Data.Tools.Utilities.dll
+F:\Arquivos\FATEC\Pizza ao Quadrado\Pizzaria-master\Pizzaria\bin\Debug\Microsoft.SqlServer.TransactSql.ScriptDom.dll
+F:\Arquivos\FATEC\Pizza ao Quadrado\Pizzaria-master\Pizzaria\bin\Debug\Microsoft.Data.SqlClient.dll
+F:\Arquivos\FATEC\Pizza ao Quadrado\Pizzaria-master\Pizzaria\bin\Debug\Microsoft.Identity.Client.dll
+F:\Arquivos\FATEC\Pizza ao Quadrado\Pizzaria-master\Pizzaria\bin\Debug\Microsoft.SqlServer.Types.dll
+F:\Arquivos\FATEC\Pizza ao Quadrado\Pizzaria-master\Pizzaria\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+F:\Arquivos\FATEC\Pizza ao Quadrado\Pizzaria-master\Pizzaria\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\Arquivos\FATEC\Pizza ao Quadrado\Pizzaria-master\Pizzaria\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+F:\Arquivos\FATEC\Pizza ao Quadrado\Pizzaria-master\Pizzaria\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+F:\Arquivos\FATEC\Pizza ao Quadrado\Pizzaria-master\Pizzaria\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+F:\Arquivos\FATEC\Pizza ao Quadrado\Pizzaria-master\Pizzaria\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\Arquivos\FATEC\Pizza ao Quadrado\Pizzaria-master\Pizzaria\bin\Debug\Microsoft.IdentityModel.Logging.dll
+F:\Arquivos\FATEC\Pizza ao Quadrado\Pizzaria-master\Pizzaria\bin\Debug\pt-BR\Microsoft.Data.Tools.Schema.Sql.resources.dll
+F:\Arquivos\FATEC\Pizza ao Quadrado\Pizzaria-master\Pizzaria\bin\Debug\pt-BR\Microsoft.Data.Tools.Schema.Sql.UnitTesting.resources.dll
+F:\Arquivos\FATEC\Pizza ao Quadrado\Pizzaria-master\Pizzaria\bin\Debug\pt-BR\Microsoft.Data.Tools.Utilities.resources.dll
+F:\Arquivos\FATEC\Pizza ao Quadrado\Pizzaria-master\Pizzaria\bin\Debug\pt-BR\Microsoft.SqlServer.TransactSql.ScriptDom.resources.dll
+F:\Arquivos\FATEC\Pizza ao Quadrado\Pizzaria-master\Pizzaria\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+F:\Arquivos\FATEC\Pizza ao Quadrado\Pizzaria-master\Pizzaria\bin\Debug\pt-BR\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+F:\Arquivos\FATEC\Pizza ao Quadrado\Pizzaria-master\Pizzaria\obj\Debug\Pizzaria.vbproj.AssemblyReference.cache
+F:\Arquivos\FATEC\Pizza ao Quadrado\Pizzaria-master\Pizzaria\obj\Debug\Pizzaria.vbproj.SuggestedBindingRedirects.cache
+F:\Arquivos\FATEC\Pizza ao Quadrado\Pizzaria-master\Pizzaria\obj\Debug\Pizzaria.exe.config
+F:\Arquivos\FATEC\Pizza ao Quadrado\Pizzaria-master\Pizzaria\obj\Debug\Pizzaria.AdicionarPizza.resources
+F:\Arquivos\FATEC\Pizza ao Quadrado\Pizzaria-master\Pizzaria\obj\Debug\Pizzaria.Admin.resources
+F:\Arquivos\FATEC\Pizza ao Quadrado\Pizzaria-master\Pizzaria\obj\Debug\Pizzaria.Cadastro.resources
+F:\Arquivos\FATEC\Pizza ao Quadrado\Pizzaria-master\Pizzaria\obj\Debug\Pizzaria.CadastroCliente.resources
+F:\Arquivos\FATEC\Pizza ao Quadrado\Pizzaria-master\Pizzaria\obj\Debug\Pizzaria.Dashboard.resources
+F:\Arquivos\FATEC\Pizza ao Quadrado\Pizzaria-master\Pizzaria\obj\Debug\Pizzaria.EsqueciSenha.resources
+F:\Arquivos\FATEC\Pizza ao Quadrado\Pizzaria-master\Pizzaria\obj\Debug\Pizzaria.Form1.resources
+F:\Arquivos\FATEC\Pizza ao Quadrado\Pizzaria-master\Pizzaria\obj\Debug\Pizzaria.Form2.resources
+F:\Arquivos\FATEC\Pizza ao Quadrado\Pizzaria-master\Pizzaria\obj\Debug\Pizzaria.Historico.resources
+F:\Arquivos\FATEC\Pizza ao Quadrado\Pizzaria-master\Pizzaria\obj\Debug\Pizzaria.Resources.resources
+F:\Arquivos\FATEC\Pizza ao Quadrado\Pizzaria-master\Pizzaria\obj\Debug\Pizzaria.Caixa.resources
+F:\Arquivos\FATEC\Pizza ao Quadrado\Pizzaria-master\Pizzaria\obj\Debug\Pizzaria.Pedido.resources
+F:\Arquivos\FATEC\Pizza ao Quadrado\Pizzaria-master\Pizzaria\obj\Debug\Pizzaria.Profile.resources
+F:\Arquivos\FATEC\Pizza ao Quadrado\Pizzaria-master\Pizzaria\obj\Debug\Pizzaria.vbproj.GenerateResource.cache
+F:\Arquivos\FATEC\Pizza ao Quadrado\Pizzaria-master\Pizzaria\obj\Debug\Pizzaria.vbproj.CoreCompileInputs.cache
+F:\Arquivos\FATEC\Pizza ao Quadrado\Pizzaria-master\Pizzaria\obj\Debug\Pizzaria.vbproj.CopyComplete
+F:\Arquivos\FATEC\Pizza ao Quadrado\Pizzaria-master\Pizzaria\obj\Debug\Pizzaria.exe
+F:\Arquivos\FATEC\Pizza ao Quadrado\Pizzaria-master\Pizzaria\obj\Debug\Pizzaria.xml
+F:\Arquivos\FATEC\Pizza ao Quadrado\Pizzaria-master\Pizzaria\obj\Debug\Pizzaria.pdb
+F:\Arquivos\FATEC\Pizza ao Quadrado\Pizzaria-master\Pizzaria\obj\Debug\Pizzaria.UserControl1.resources
+C:\Users\leona\Downloads\Pizzaria-master\Pizzaria-master\Pizzaria\obj\Debug\Pizzaria.vbproj.AssemblyReference.cache
+C:\Users\leona\Downloads\Pizzaria-master\Pizzaria-master\Pizzaria\obj\Debug\Pizzaria.vbproj.SuggestedBindingRedirects.cache
+C:\Users\leona\Downloads\Pizzaria-master\Pizzaria-master\Pizzaria\obj\Debug\Pizzaria.exe.config
+C:\Users\leona\Downloads\Pizzaria-master\Pizzaria-master\Pizzaria\obj\Debug\Pizzaria.exe
+C:\Users\leona\Downloads\Pizzaria-master\Pizzaria-master\Pizzaria\obj\Debug\Pizzaria.xml
+C:\Users\leona\Downloads\Pizzaria-master\Pizzaria-master\Pizzaria\obj\Debug\Pizzaria.pdb
+C:\Users\leona\Downloads\Pizzaria-master\Pizzaria-master\Pizzaria\bin\Debug\My Project\db_pizzaria.mdf
+C:\Users\leona\Downloads\Pizzaria-master\Pizzaria-master\Pizzaria\bin\Debug\My Project\db_pizzaria_log.ldf
+C:\Users\leona\Downloads\Pizzaria-master\Pizzaria-master\Pizzaria\bin\Debug\Pizzaria.exe.config
+C:\Users\leona\Downloads\Pizzaria-master\Pizzaria-master\Pizzaria\bin\Debug\Pizzaria.exe
+C:\Users\leona\Downloads\Pizzaria-master\Pizzaria-master\Pizzaria\bin\Debug\Pizzaria.pdb
+C:\Users\leona\Downloads\Pizzaria-master\Pizzaria-master\Pizzaria\bin\Debug\Pizzaria.xml
+C:\Users\leona\Downloads\Pizzaria-master\Pizzaria-master\Pizzaria\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\leona\Downloads\Pizzaria-master\Pizzaria-master\Pizzaria\bin\Debug\Guna.UI.dll
+C:\Users\leona\Downloads\Pizzaria-master\Pizzaria-master\Pizzaria\bin\Debug\Guna.UI2.dll
+C:\Users\leona\Downloads\Pizzaria-master\Pizzaria-master\Pizzaria\bin\Debug\MetroFramework.dll
+C:\Users\leona\Downloads\Pizzaria-master\Pizzaria-master\Pizzaria\bin\Debug\Microsoft.Data.Tools.Components.dll
+C:\Users\leona\Downloads\Pizzaria-master\Pizzaria-master\Pizzaria\bin\Debug\Microsoft.Data.Tools.Schema.Sql.UnitTesting.dll
+C:\Users\leona\Downloads\Pizzaria-master\Pizzaria-master\Pizzaria\bin\Debug\Microsoft.Data.Tools.Schema.Sql.UnitTestingAdapter.dll
+C:\Users\leona\Downloads\Pizzaria-master\Pizzaria-master\Pizzaria\bin\Debug\Microsoft.Data.Tools.Utilities.dll
+C:\Users\leona\Downloads\Pizzaria-master\Pizzaria-master\Pizzaria\bin\Debug\Microsoft.SqlServer.TransactSql.ScriptDom.dll
+C:\Users\leona\Downloads\Pizzaria-master\Pizzaria-master\Pizzaria\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\leona\Downloads\Pizzaria-master\Pizzaria-master\Pizzaria\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\leona\Downloads\Pizzaria-master\Pizzaria-master\Pizzaria\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\leona\Downloads\Pizzaria-master\Pizzaria-master\Pizzaria\bin\Debug\pt-BR\Microsoft.Data.Tools.Schema.Sql.resources.dll
+C:\Users\leona\Downloads\Pizzaria-master\Pizzaria-master\Pizzaria\bin\Debug\pt-BR\Microsoft.Data.Tools.Schema.Sql.UnitTesting.resources.dll
+C:\Users\leona\Downloads\Pizzaria-master\Pizzaria-master\Pizzaria\bin\Debug\pt-BR\Microsoft.Data.Tools.Utilities.resources.dll
+C:\Users\leona\Downloads\Pizzaria-master\Pizzaria-master\Pizzaria\bin\Debug\pt-BR\Microsoft.SqlServer.TransactSql.ScriptDom.resources.dll
+C:\Users\leona\Downloads\Pizzaria-master\Pizzaria-master\Pizzaria\bin\Debug\pt-BR\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\leona\Downloads\Pizzaria-master\Pizzaria-master\Pizzaria\obj\Debug\Pizzaria.AdicionarPizza.resources
+C:\Users\leona\Downloads\Pizzaria-master\Pizzaria-master\Pizzaria\obj\Debug\Pizzaria.Admin.resources
+C:\Users\leona\Downloads\Pizzaria-master\Pizzaria-master\Pizzaria\obj\Debug\Pizzaria.Cadastro.resources
+C:\Users\leona\Downloads\Pizzaria-master\Pizzaria-master\Pizzaria\obj\Debug\Pizzaria.CadastroCliente.resources
+C:\Users\leona\Downloads\Pizzaria-master\Pizzaria-master\Pizzaria\obj\Debug\Pizzaria.Dashboard.resources
+C:\Users\leona\Downloads\Pizzaria-master\Pizzaria-master\Pizzaria\obj\Debug\Pizzaria.EsqueciSenha.resources
+C:\Users\leona\Downloads\Pizzaria-master\Pizzaria-master\Pizzaria\obj\Debug\Pizzaria.Form1.resources
+C:\Users\leona\Downloads\Pizzaria-master\Pizzaria-master\Pizzaria\obj\Debug\Pizzaria.Form2.resources
+C:\Users\leona\Downloads\Pizzaria-master\Pizzaria-master\Pizzaria\obj\Debug\Pizzaria.Historico.resources
+C:\Users\leona\Downloads\Pizzaria-master\Pizzaria-master\Pizzaria\obj\Debug\Pizzaria.Resources.resources
+C:\Users\leona\Downloads\Pizzaria-master\Pizzaria-master\Pizzaria\obj\Debug\Pizzaria.Caixa.resources
+C:\Users\leona\Downloads\Pizzaria-master\Pizzaria-master\Pizzaria\obj\Debug\Pizzaria.Pedido.resources
+C:\Users\leona\Downloads\Pizzaria-master\Pizzaria-master\Pizzaria\obj\Debug\Pizzaria.Profile.resources
+C:\Users\leona\Downloads\Pizzaria-master\Pizzaria-master\Pizzaria\obj\Debug\Pizzaria.UserControl1.resources
+C:\Users\leona\Downloads\Pizzaria-master\Pizzaria-master\Pizzaria\obj\Debug\Pizzaria.vbproj.GenerateResource.cache
+C:\Users\leona\Downloads\Pizzaria-master\Pizzaria-master\Pizzaria\obj\Debug\Pizzaria.vbproj.CoreCompileInputs.cache
+C:\Users\leona\Downloads\Pizzaria-master\Pizzaria-master\Pizzaria\obj\Debug\Pizzaria.vbproj.CopyComplete
+C:\Users\Larissa\Downloads\Pizzaria-master2.0\Pizzaria-master\Pizzaria-master\Pizzaria\bin\Debug\My Project\db_pizzaria.mdf
+C:\Users\Larissa\Downloads\Pizzaria-master2.0\Pizzaria-master\Pizzaria-master\Pizzaria\bin\Debug\My Project\db_pizzaria_log.ldf
+C:\Users\Larissa\Downloads\Pizzaria-master2.0\Pizzaria-master\Pizzaria-master\Pizzaria\bin\Debug\Pizzaria.exe.config
+C:\Users\Larissa\Downloads\Pizzaria-master2.0\Pizzaria-master\Pizzaria-master\Pizzaria\bin\Debug\Pizzaria.exe
+C:\Users\Larissa\Downloads\Pizzaria-master2.0\Pizzaria-master\Pizzaria-master\Pizzaria\bin\Debug\Pizzaria.pdb
+C:\Users\Larissa\Downloads\Pizzaria-master2.0\Pizzaria-master\Pizzaria-master\Pizzaria\bin\Debug\Pizzaria.xml
+C:\Users\Larissa\Downloads\Pizzaria-master2.0\Pizzaria-master\Pizzaria-master\Pizzaria\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\Larissa\Downloads\Pizzaria-master2.0\Pizzaria-master\Pizzaria-master\Pizzaria\bin\Debug\Guna.UI2.dll
+C:\Users\Larissa\Downloads\Pizzaria-master2.0\Pizzaria-master\Pizzaria-master\Pizzaria\bin\Debug\MetroFramework.dll
+C:\Users\Larissa\Downloads\Pizzaria-master2.0\Pizzaria-master\Pizzaria-master\Pizzaria\bin\Debug\Microsoft.Data.Tools.Components.dll
+C:\Users\Larissa\Downloads\Pizzaria-master2.0\Pizzaria-master\Pizzaria-master\Pizzaria\bin\Debug\Microsoft.Data.Tools.Schema.Sql.dll
+C:\Users\Larissa\Downloads\Pizzaria-master2.0\Pizzaria-master\Pizzaria-master\Pizzaria\bin\Debug\Microsoft.Data.Tools.Schema.Sql.UnitTesting.dll
+C:\Users\Larissa\Downloads\Pizzaria-master2.0\Pizzaria-master\Pizzaria-master\Pizzaria\bin\Debug\Microsoft.Data.Tools.Schema.Sql.UnitTestingAdapter.dll
+C:\Users\Larissa\Downloads\Pizzaria-master2.0\Pizzaria-master\Pizzaria-master\Pizzaria\bin\Debug\Microsoft.Data.Tools.Utilities.dll
+C:\Users\Larissa\Downloads\Pizzaria-master2.0\Pizzaria-master\Pizzaria-master\Pizzaria\bin\Debug\Microsoft.SqlServer.TransactSql.ScriptDom.dll
+C:\Users\Larissa\Downloads\Pizzaria-master2.0\Pizzaria-master\Pizzaria-master\Pizzaria\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Users\Larissa\Downloads\Pizzaria-master2.0\Pizzaria-master\Pizzaria-master\Pizzaria\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\Larissa\Downloads\Pizzaria-master2.0\Pizzaria-master\Pizzaria-master\Pizzaria\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Larissa\Downloads\Pizzaria-master2.0\Pizzaria-master\Pizzaria-master\Pizzaria\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Larissa\Downloads\Pizzaria-master2.0\Pizzaria-master\Pizzaria-master\Pizzaria\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Larissa\Downloads\Pizzaria-master2.0\Pizzaria-master\Pizzaria-master\Pizzaria\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Larissa\Downloads\Pizzaria-master2.0\Pizzaria-master\Pizzaria-master\Pizzaria\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Larissa\Downloads\Pizzaria-master2.0\Pizzaria-master\Pizzaria-master\Pizzaria\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Larissa\Downloads\Pizzaria-master2.0\Pizzaria-master\Pizzaria-master\Pizzaria\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Larissa\Downloads\Pizzaria-master2.0\Pizzaria-master\Pizzaria-master\Pizzaria\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\Larissa\Downloads\Pizzaria-master2.0\Pizzaria-master\Pizzaria-master\Pizzaria\bin\Debug\pt-BR\Microsoft.Data.Tools.Schema.Sql.resources.dll
+C:\Users\Larissa\Downloads\Pizzaria-master2.0\Pizzaria-master\Pizzaria-master\Pizzaria\bin\Debug\pt-BR\Microsoft.Data.Tools.Schema.Sql.UnitTesting.resources.dll
+C:\Users\Larissa\Downloads\Pizzaria-master2.0\Pizzaria-master\Pizzaria-master\Pizzaria\bin\Debug\pt-BR\Microsoft.Data.Tools.Utilities.resources.dll
+C:\Users\Larissa\Downloads\Pizzaria-master2.0\Pizzaria-master\Pizzaria-master\Pizzaria\bin\Debug\pt-BR\Microsoft.SqlServer.TransactSql.ScriptDom.resources.dll
+C:\Users\Larissa\Downloads\Pizzaria-master2.0\Pizzaria-master\Pizzaria-master\Pizzaria\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Larissa\Downloads\Pizzaria-master2.0\Pizzaria-master\Pizzaria-master\Pizzaria\bin\Debug\pt-BR\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\Larissa\Downloads\Pizzaria-master2.0\Pizzaria-master\Pizzaria-master\Pizzaria\obj\Debug\Pizzaria.vbproj.AssemblyReference.cache
+C:\Users\Larissa\Downloads\Pizzaria-master2.0\Pizzaria-master\Pizzaria-master\Pizzaria\obj\Debug\Pizzaria.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Larissa\Downloads\Pizzaria-master2.0\Pizzaria-master\Pizzaria-master\Pizzaria\obj\Debug\Pizzaria.exe.config
+C:\Users\Larissa\Downloads\Pizzaria-master2.0\Pizzaria-master\Pizzaria-master\Pizzaria\obj\Debug\Pizzaria.AdicionarPizza.resources
+C:\Users\Larissa\Downloads\Pizzaria-master2.0\Pizzaria-master\Pizzaria-master\Pizzaria\obj\Debug\Pizzaria.Admin.resources
+C:\Users\Larissa\Downloads\Pizzaria-master2.0\Pizzaria-master\Pizzaria-master\Pizzaria\obj\Debug\Pizzaria.Cadastro.resources
+C:\Users\Larissa\Downloads\Pizzaria-master2.0\Pizzaria-master\Pizzaria-master\Pizzaria\obj\Debug\Pizzaria.CadastroCliente.resources
+C:\Users\Larissa\Downloads\Pizzaria-master2.0\Pizzaria-master\Pizzaria-master\Pizzaria\obj\Debug\Pizzaria.Dashboard.resources
+C:\Users\Larissa\Downloads\Pizzaria-master2.0\Pizzaria-master\Pizzaria-master\Pizzaria\obj\Debug\Pizzaria.EsqueciSenha.resources
+C:\Users\Larissa\Downloads\Pizzaria-master2.0\Pizzaria-master\Pizzaria-master\Pizzaria\obj\Debug\Pizzaria.Form1.resources
+C:\Users\Larissa\Downloads\Pizzaria-master2.0\Pizzaria-master\Pizzaria-master\Pizzaria\obj\Debug\Pizzaria.Form2.resources
+C:\Users\Larissa\Downloads\Pizzaria-master2.0\Pizzaria-master\Pizzaria-master\Pizzaria\obj\Debug\Pizzaria.Historico.resources
+C:\Users\Larissa\Downloads\Pizzaria-master2.0\Pizzaria-master\Pizzaria-master\Pizzaria\obj\Debug\Pizzaria.Resources.resources
+C:\Users\Larissa\Downloads\Pizzaria-master2.0\Pizzaria-master\Pizzaria-master\Pizzaria\obj\Debug\Pizzaria.Caixa.resources
+C:\Users\Larissa\Downloads\Pizzaria-master2.0\Pizzaria-master\Pizzaria-master\Pizzaria\obj\Debug\Pizzaria.Pedido.resources
+C:\Users\Larissa\Downloads\Pizzaria-master2.0\Pizzaria-master\Pizzaria-master\Pizzaria\obj\Debug\Pizzaria.Profile.resources
+C:\Users\Larissa\Downloads\Pizzaria-master2.0\Pizzaria-master\Pizzaria-master\Pizzaria\obj\Debug\Pizzaria.UserControl1.resources
+C:\Users\Larissa\Downloads\Pizzaria-master2.0\Pizzaria-master\Pizzaria-master\Pizzaria\obj\Debug\Pizzaria.vbproj.GenerateResource.cache
+C:\Users\Larissa\Downloads\Pizzaria-master2.0\Pizzaria-master\Pizzaria-master\Pizzaria\obj\Debug\Pizzaria.vbproj.CoreCompileInputs.cache
+C:\Users\Larissa\Downloads\Pizzaria-master2.0\Pizzaria-master\Pizzaria-master\Pizzaria\obj\Debug\Pizzaria.vbproj.CopyComplete
+C:\Users\Larissa\Downloads\Pizzaria-master2.0\Pizzaria-master\Pizzaria-master\Pizzaria\obj\Debug\Pizzaria.exe
+C:\Users\Larissa\Downloads\Pizzaria-master2.0\Pizzaria-master\Pizzaria-master\Pizzaria\obj\Debug\Pizzaria.xml
+C:\Users\Larissa\Downloads\Pizzaria-master2.0\Pizzaria-master\Pizzaria-master\Pizzaria\obj\Debug\Pizzaria.pdb
+C:\Users\Larissa\Downloads\Pizzaria-master2.0\Pizzaria-master\Pizzaria-master\Pizzaria\obj\Debug\Pizzaria.GerenciarColab.resources
+C:\Users\Larissa\Downloads\Pizzaria-master2.0\Pizzaria-master\Pizzaria-master\Pizzaria\obj\Debug\Pizzaria.GerenciarCliente.resources
+C:\Users\Larissa\Downloads\Pizzaria-master2.0\Pizzaria-master\Pizzaria-master\Pizzaria\obj\Debug\Pizzaria.HistoricoPedido.resources
+C:\Users\Larissa\Downloads\Pizzaria-master2.0\Pizzaria-master\Pizzaria-master\Pizzaria\obj\Debug\Pizzaria.HistoricoSangria.resources
+C:\Users\Larissa\Downloads\Pizzaria-master2.0\Pizzaria-master\Pizzaria-master\Pizzaria\obj\Debug\Pizzaria.Sangria.resources
+C:\Users\leona\OneDrive\Área de Trabalho\Pizzaria-master\Pizzaria-master\Pizzaria-master\Pizzaria\obj\Debug\Pizzaria.vbproj.AssemblyReference.cache
+C:\Users\leona\OneDrive\Área de Trabalho\Pizzaria-master\Pizzaria-master\Pizzaria-master\Pizzaria\obj\Debug\Pizzaria.vbproj.SuggestedBindingRedirects.cache
+C:\Users\leona\OneDrive\Área de Trabalho\Pizzaria-master\Pizzaria-master\Pizzaria-master\Pizzaria\obj\Debug\Pizzaria.exe.config
+C:\Users\leona\OneDrive\Área de Trabalho\Pizzaria-master\Pizzaria-master\Pizzaria-master\Pizzaria\obj\Debug\Pizzaria.exe
+C:\Users\leona\OneDrive\Área de Trabalho\Pizzaria-master\Pizzaria-master\Pizzaria-master\Pizzaria\obj\Debug\Pizzaria.xml
+C:\Users\leona\OneDrive\Área de Trabalho\Pizzaria-master\Pizzaria-master\Pizzaria-master\Pizzaria\obj\Debug\Pizzaria.pdb
+C:\Users\leona\OneDrive\Área de Trabalho\Pizzaria-master\Pizzaria-master\Pizzaria-master\Pizzaria\bin\Debug\My Project\db_pizzaria.mdf
+C:\Users\leona\OneDrive\Área de Trabalho\Pizzaria-master\Pizzaria-master\Pizzaria-master\Pizzaria\bin\Debug\My Project\db_pizzaria_log.ldf
+C:\Users\leona\OneDrive\Área de Trabalho\Pizzaria-master\Pizzaria-master\Pizzaria-master\Pizzaria\bin\Debug\Pizzaria.exe.config
+C:\Users\leona\OneDrive\Área de Trabalho\Pizzaria-master\Pizzaria-master\Pizzaria-master\Pizzaria\bin\Debug\Pizzaria.exe
+C:\Users\leona\OneDrive\Área de Trabalho\Pizzaria-master\Pizzaria-master\Pizzaria-master\Pizzaria\bin\Debug\Pizzaria.pdb
+C:\Users\leona\OneDrive\Área de Trabalho\Pizzaria-master\Pizzaria-master\Pizzaria-master\Pizzaria\bin\Debug\Pizzaria.xml
+C:\Users\leona\OneDrive\Área de Trabalho\Pizzaria-master\Pizzaria-master\Pizzaria-master\Pizzaria\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\leona\OneDrive\Área de Trabalho\Pizzaria-master\Pizzaria-master\Pizzaria-master\Pizzaria\bin\Debug\Guna.UI2.dll
+C:\Users\leona\OneDrive\Área de Trabalho\Pizzaria-master\Pizzaria-master\Pizzaria-master\Pizzaria\bin\Debug\MetroFramework.dll
+C:\Users\leona\OneDrive\Área de Trabalho\Pizzaria-master\Pizzaria-master\Pizzaria-master\Pizzaria\bin\Debug\Microsoft.Data.Tools.Components.dll
+C:\Users\leona\OneDrive\Área de Trabalho\Pizzaria-master\Pizzaria-master\Pizzaria-master\Pizzaria\bin\Debug\Microsoft.Data.Tools.Schema.Sql.UnitTesting.dll
+C:\Users\leona\OneDrive\Área de Trabalho\Pizzaria-master\Pizzaria-master\Pizzaria-master\Pizzaria\bin\Debug\Microsoft.Data.Tools.Schema.Sql.UnitTestingAdapter.dll
+C:\Users\leona\OneDrive\Área de Trabalho\Pizzaria-master\Pizzaria-master\Pizzaria-master\Pizzaria\bin\Debug\Microsoft.Data.Tools.Utilities.dll
+C:\Users\leona\OneDrive\Área de Trabalho\Pizzaria-master\Pizzaria-master\Pizzaria-master\Pizzaria\bin\Debug\Microsoft.SqlServer.TransactSql.ScriptDom.dll
+C:\Users\leona\OneDrive\Área de Trabalho\Pizzaria-master\Pizzaria-master\Pizzaria-master\Pizzaria\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\leona\OneDrive\Área de Trabalho\Pizzaria-master\Pizzaria-master\Pizzaria-master\Pizzaria\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\leona\OneDrive\Área de Trabalho\Pizzaria-master\Pizzaria-master\Pizzaria-master\Pizzaria\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\leona\OneDrive\Área de Trabalho\Pizzaria-master\Pizzaria-master\Pizzaria-master\Pizzaria\bin\Debug\pt-BR\Microsoft.Data.Tools.Schema.Sql.resources.dll
+C:\Users\leona\OneDrive\Área de Trabalho\Pizzaria-master\Pizzaria-master\Pizzaria-master\Pizzaria\bin\Debug\pt-BR\Microsoft.Data.Tools.Schema.Sql.UnitTesting.resources.dll
+C:\Users\leona\OneDrive\Área de Trabalho\Pizzaria-master\Pizzaria-master\Pizzaria-master\Pizzaria\bin\Debug\pt-BR\Microsoft.Data.Tools.Utilities.resources.dll
+C:\Users\leona\OneDrive\Área de Trabalho\Pizzaria-master\Pizzaria-master\Pizzaria-master\Pizzaria\bin\Debug\pt-BR\Microsoft.SqlServer.TransactSql.ScriptDom.resources.dll
+C:\Users\leona\OneDrive\Área de Trabalho\Pizzaria-master\Pizzaria-master\Pizzaria-master\Pizzaria\bin\Debug\pt-BR\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\leona\OneDrive\Área de Trabalho\Pizzaria-master\Pizzaria-master\Pizzaria-master\Pizzaria\obj\Debug\Pizzaria.AdicionarPizza.resources
+C:\Users\leona\OneDrive\Área de Trabalho\Pizzaria-master\Pizzaria-master\Pizzaria-master\Pizzaria\obj\Debug\Pizzaria.Admin.resources
+C:\Users\leona\OneDrive\Área de Trabalho\Pizzaria-master\Pizzaria-master\Pizzaria-master\Pizzaria\obj\Debug\Pizzaria.Cadastro.resources
+C:\Users\leona\OneDrive\Área de Trabalho\Pizzaria-master\Pizzaria-master\Pizzaria-master\Pizzaria\obj\Debug\Pizzaria.CadastroCliente.resources
+C:\Users\leona\OneDrive\Área de Trabalho\Pizzaria-master\Pizzaria-master\Pizzaria-master\Pizzaria\obj\Debug\Pizzaria.Dashboard.resources
+C:\Users\leona\OneDrive\Área de Trabalho\Pizzaria-master\Pizzaria-master\Pizzaria-master\Pizzaria\obj\Debug\Pizzaria.EsqueciSenha.resources
+C:\Users\leona\OneDrive\Área de Trabalho\Pizzaria-master\Pizzaria-master\Pizzaria-master\Pizzaria\obj\Debug\Pizzaria.Form1.resources
+C:\Users\leona\OneDrive\Área de Trabalho\Pizzaria-master\Pizzaria-master\Pizzaria-master\Pizzaria\obj\Debug\Pizzaria.Form2.resources
+C:\Users\leona\OneDrive\Área de Trabalho\Pizzaria-master\Pizzaria-master\Pizzaria-master\Pizzaria\obj\Debug\Pizzaria.GerenciarCliente.resources
+C:\Users\leona\OneDrive\Área de Trabalho\Pizzaria-master\Pizzaria-master\Pizzaria-master\Pizzaria\obj\Debug\Pizzaria.GerenciarColab.resources
+C:\Users\leona\OneDrive\Área de Trabalho\Pizzaria-master\Pizzaria-master\Pizzaria-master\Pizzaria\obj\Debug\Pizzaria.Historico.resources
+C:\Users\leona\OneDrive\Área de Trabalho\Pizzaria-master\Pizzaria-master\Pizzaria-master\Pizzaria\obj\Debug\Pizzaria.HistoricoPedido.resources
+C:\Users\leona\OneDrive\Área de Trabalho\Pizzaria-master\Pizzaria-master\Pizzaria-master\Pizzaria\obj\Debug\Pizzaria.HistoricoSangria.resources
+C:\Users\leona\OneDrive\Área de Trabalho\Pizzaria-master\Pizzaria-master\Pizzaria-master\Pizzaria\obj\Debug\Pizzaria.Resources.resources
+C:\Users\leona\OneDrive\Área de Trabalho\Pizzaria-master\Pizzaria-master\Pizzaria-master\Pizzaria\obj\Debug\Pizzaria.Caixa.resources
+C:\Users\leona\OneDrive\Área de Trabalho\Pizzaria-master\Pizzaria-master\Pizzaria-master\Pizzaria\obj\Debug\Pizzaria.Pedido.resources
+C:\Users\leona\OneDrive\Área de Trabalho\Pizzaria-master\Pizzaria-master\Pizzaria-master\Pizzaria\obj\Debug\Pizzaria.Profile.resources
+C:\Users\leona\OneDrive\Área de Trabalho\Pizzaria-master\Pizzaria-master\Pizzaria-master\Pizzaria\obj\Debug\Pizzaria.Sangria.resources
+C:\Users\leona\OneDrive\Área de Trabalho\Pizzaria-master\Pizzaria-master\Pizzaria-master\Pizzaria\obj\Debug\Pizzaria.UserControl1.resources
+C:\Users\leona\OneDrive\Área de Trabalho\Pizzaria-master\Pizzaria-master\Pizzaria-master\Pizzaria\obj\Debug\Pizzaria.vbproj.GenerateResource.cache
+C:\Users\leona\OneDrive\Área de Trabalho\Pizzaria-master\Pizzaria-master\Pizzaria-master\Pizzaria\obj\Debug\Pizzaria.vbproj.CoreCompileInputs.cache
+C:\Users\leona\OneDrive\Área de Trabalho\Pizzaria-master\Pizzaria-master\Pizzaria-master\Pizzaria\obj\Debug\Pizzaria.vbproj.CopyComplete
+C:\Users\Larissa\Downloads\Pizzaria-master\Pizzaria-master\Pizzaria-master\Pizzaria\bin\Debug\My Project\db_pizzaria.mdf
+C:\Users\Larissa\Downloads\Pizzaria-master\Pizzaria-master\Pizzaria-master\Pizzaria\bin\Debug\My Project\db_pizzaria_log.ldf
+C:\Users\Larissa\Downloads\Pizzaria-master\Pizzaria-master\Pizzaria-master\Pizzaria\bin\Debug\Pizzaria.exe.config
+C:\Users\Larissa\Downloads\Pizzaria-master\Pizzaria-master\Pizzaria-master\Pizzaria\bin\Debug\Pizzaria.exe
+C:\Users\Larissa\Downloads\Pizzaria-master\Pizzaria-master\Pizzaria-master\Pizzaria\bin\Debug\Pizzaria.pdb
+C:\Users\Larissa\Downloads\Pizzaria-master\Pizzaria-master\Pizzaria-master\Pizzaria\bin\Debug\Pizzaria.xml
+C:\Users\Larissa\Downloads\Pizzaria-master\Pizzaria-master\Pizzaria-master\Pizzaria\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\Larissa\Downloads\Pizzaria-master\Pizzaria-master\Pizzaria-master\Pizzaria\bin\Debug\Guna.UI2.dll
+C:\Users\Larissa\Downloads\Pizzaria-master\Pizzaria-master\Pizzaria-master\Pizzaria\bin\Debug\MetroFramework.dll
+C:\Users\Larissa\Downloads\Pizzaria-master\Pizzaria-master\Pizzaria-master\Pizzaria\bin\Debug\Microsoft.Data.Tools.Components.dll
+C:\Users\Larissa\Downloads\Pizzaria-master\Pizzaria-master\Pizzaria-master\Pizzaria\bin\Debug\Microsoft.Data.Tools.Schema.Sql.dll
+C:\Users\Larissa\Downloads\Pizzaria-master\Pizzaria-master\Pizzaria-master\Pizzaria\bin\Debug\Microsoft.Data.Tools.Schema.Sql.UnitTesting.dll
+C:\Users\Larissa\Downloads\Pizzaria-master\Pizzaria-master\Pizzaria-master\Pizzaria\bin\Debug\Microsoft.Data.Tools.Schema.Sql.UnitTestingAdapter.dll
+C:\Users\Larissa\Downloads\Pizzaria-master\Pizzaria-master\Pizzaria-master\Pizzaria\bin\Debug\Microsoft.Data.Tools.Utilities.dll
+C:\Users\Larissa\Downloads\Pizzaria-master\Pizzaria-master\Pizzaria-master\Pizzaria\bin\Debug\Microsoft.SqlServer.TransactSql.ScriptDom.dll
+C:\Users\Larissa\Downloads\Pizzaria-master\Pizzaria-master\Pizzaria-master\Pizzaria\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Users\Larissa\Downloads\Pizzaria-master\Pizzaria-master\Pizzaria-master\Pizzaria\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\Larissa\Downloads\Pizzaria-master\Pizzaria-master\Pizzaria-master\Pizzaria\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Larissa\Downloads\Pizzaria-master\Pizzaria-master\Pizzaria-master\Pizzaria\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Larissa\Downloads\Pizzaria-master\Pizzaria-master\Pizzaria-master\Pizzaria\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Larissa\Downloads\Pizzaria-master\Pizzaria-master\Pizzaria-master\Pizzaria\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Larissa\Downloads\Pizzaria-master\Pizzaria-master\Pizzaria-master\Pizzaria\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Larissa\Downloads\Pizzaria-master\Pizzaria-master\Pizzaria-master\Pizzaria\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Larissa\Downloads\Pizzaria-master\Pizzaria-master\Pizzaria-master\Pizzaria\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Larissa\Downloads\Pizzaria-master\Pizzaria-master\Pizzaria-master\Pizzaria\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\Larissa\Downloads\Pizzaria-master\Pizzaria-master\Pizzaria-master\Pizzaria\bin\Debug\pt-BR\Microsoft.Data.Tools.Schema.Sql.resources.dll
+C:\Users\Larissa\Downloads\Pizzaria-master\Pizzaria-master\Pizzaria-master\Pizzaria\bin\Debug\pt-BR\Microsoft.Data.Tools.Schema.Sql.UnitTesting.resources.dll
+C:\Users\Larissa\Downloads\Pizzaria-master\Pizzaria-master\Pizzaria-master\Pizzaria\bin\Debug\pt-BR\Microsoft.Data.Tools.Utilities.resources.dll
+C:\Users\Larissa\Downloads\Pizzaria-master\Pizzaria-master\Pizzaria-master\Pizzaria\bin\Debug\pt-BR\Microsoft.SqlServer.TransactSql.ScriptDom.resources.dll
+C:\Users\Larissa\Downloads\Pizzaria-master\Pizzaria-master\Pizzaria-master\Pizzaria\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Larissa\Downloads\Pizzaria-master\Pizzaria-master\Pizzaria-master\Pizzaria\bin\Debug\pt-BR\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\Larissa\Downloads\Pizzaria-master\Pizzaria-master\Pizzaria-master\Pizzaria\obj\Debug\Pizzaria.vbproj.AssemblyReference.cache
+C:\Users\Larissa\Downloads\Pizzaria-master\Pizzaria-master\Pizzaria-master\Pizzaria\obj\Debug\Pizzaria.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Larissa\Downloads\Pizzaria-master\Pizzaria-master\Pizzaria-master\Pizzaria\obj\Debug\Pizzaria.exe.config
+C:\Users\Larissa\Downloads\Pizzaria-master\Pizzaria-master\Pizzaria-master\Pizzaria\obj\Debug\Pizzaria.AdicionarPizza.resources
+C:\Users\Larissa\Downloads\Pizzaria-master\Pizzaria-master\Pizzaria-master\Pizzaria\obj\Debug\Pizzaria.Admin.resources
+C:\Users\Larissa\Downloads\Pizzaria-master\Pizzaria-master\Pizzaria-master\Pizzaria\obj\Debug\Pizzaria.Cadastro.resources
+C:\Users\Larissa\Downloads\Pizzaria-master\Pizzaria-master\Pizzaria-master\Pizzaria\obj\Debug\Pizzaria.CadastroCliente.resources
+C:\Users\Larissa\Downloads\Pizzaria-master\Pizzaria-master\Pizzaria-master\Pizzaria\obj\Debug\Pizzaria.Dashboard.resources
+C:\Users\Larissa\Downloads\Pizzaria-master\Pizzaria-master\Pizzaria-master\Pizzaria\obj\Debug\Pizzaria.EsqueciSenha.resources
+C:\Users\Larissa\Downloads\Pizzaria-master\Pizzaria-master\Pizzaria-master\Pizzaria\obj\Debug\Pizzaria.Form1.resources
+C:\Users\Larissa\Downloads\Pizzaria-master\Pizzaria-master\Pizzaria-master\Pizzaria\obj\Debug\Pizzaria.Form2.resources
+C:\Users\Larissa\Downloads\Pizzaria-master\Pizzaria-master\Pizzaria-master\Pizzaria\obj\Debug\Pizzaria.GerenciarCliente.resources
+C:\Users\Larissa\Downloads\Pizzaria-master\Pizzaria-master\Pizzaria-master\Pizzaria\obj\Debug\Pizzaria.GerenciarColab.resources
+C:\Users\Larissa\Downloads\Pizzaria-master\Pizzaria-master\Pizzaria-master\Pizzaria\obj\Debug\Pizzaria.Historico.resources
+C:\Users\Larissa\Downloads\Pizzaria-master\Pizzaria-master\Pizzaria-master\Pizzaria\obj\Debug\Pizzaria.HistoricoPedido.resources
+C:\Users\Larissa\Downloads\Pizzaria-master\Pizzaria-master\Pizzaria-master\Pizzaria\obj\Debug\Pizzaria.HistoricoSangria.resources
+C:\Users\Larissa\Downloads\Pizzaria-master\Pizzaria-master\Pizzaria-master\Pizzaria\obj\Debug\Pizzaria.Resources.resources
+C:\Users\Larissa\Downloads\Pizzaria-master\Pizzaria-master\Pizzaria-master\Pizzaria\obj\Debug\Pizzaria.Caixa.resources
+C:\Users\Larissa\Downloads\Pizzaria-master\Pizzaria-master\Pizzaria-master\Pizzaria\obj\Debug\Pizzaria.Pedido.resources
+C:\Users\Larissa\Downloads\Pizzaria-master\Pizzaria-master\Pizzaria-master\Pizzaria\obj\Debug\Pizzaria.Profile.resources
+C:\Users\Larissa\Downloads\Pizzaria-master\Pizzaria-master\Pizzaria-master\Pizzaria\obj\Debug\Pizzaria.Sangria.resources
+C:\Users\Larissa\Downloads\Pizzaria-master\Pizzaria-master\Pizzaria-master\Pizzaria\obj\Debug\Pizzaria.UserControl1.resources
+C:\Users\Larissa\Downloads\Pizzaria-master\Pizzaria-master\Pizzaria-master\Pizzaria\obj\Debug\Pizzaria.vbproj.GenerateResource.cache
+C:\Users\Larissa\Downloads\Pizzaria-master\Pizzaria-master\Pizzaria-master\Pizzaria\obj\Debug\Pizzaria.vbproj.CoreCompileInputs.cache
+C:\Users\Larissa\Downloads\Pizzaria-master\Pizzaria-master\Pizzaria-master\Pizzaria\obj\Debug\Pizzaria.vbproj.CopyComplete
+C:\Users\Larissa\Downloads\Pizzaria-master\Pizzaria-master\Pizzaria-master\Pizzaria\obj\Debug\Pizzaria.exe
+C:\Users\Larissa\Downloads\Pizzaria-master\Pizzaria-master\Pizzaria-master\Pizzaria\obj\Debug\Pizzaria.xml
+C:\Users\Larissa\Downloads\Pizzaria-master\Pizzaria-master\Pizzaria-master\Pizzaria\obj\Debug\Pizzaria.pdb
+C:\Users\leona\Downloads\Pizzaria-master\Pizzaria-master\Pizzaria-master\Pizzaria\bin\Debug\My Project\db_pizzaria.mdf
+C:\Users\leona\Downloads\Pizzaria-master\Pizzaria-master\Pizzaria-master\Pizzaria\bin\Debug\My Project\db_pizzaria_log.ldf
+C:\Users\leona\Downloads\Pizzaria-master\Pizzaria-master\Pizzaria-master\Pizzaria\bin\Debug\Pizzaria.exe.config
+C:\Users\leona\Downloads\Pizzaria-master\Pizzaria-master\Pizzaria-master\Pizzaria\bin\Debug\Pizzaria.exe
+C:\Users\leona\Downloads\Pizzaria-master\Pizzaria-master\Pizzaria-master\Pizzaria\bin\Debug\Pizzaria.pdb
+C:\Users\leona\Downloads\Pizzaria-master\Pizzaria-master\Pizzaria-master\Pizzaria\bin\Debug\Pizzaria.xml
+C:\Users\leona\Downloads\Pizzaria-master\Pizzaria-master\Pizzaria-master\Pizzaria\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\leona\Downloads\Pizzaria-master\Pizzaria-master\Pizzaria-master\Pizzaria\bin\Debug\Guna.UI2.dll
+C:\Users\leona\Downloads\Pizzaria-master\Pizzaria-master\Pizzaria-master\Pizzaria\bin\Debug\MetroFramework.dll
+C:\Users\leona\Downloads\Pizzaria-master\Pizzaria-master\Pizzaria-master\Pizzaria\bin\Debug\Microsoft.Data.Tools.Components.dll
+C:\Users\leona\Downloads\Pizzaria-master\Pizzaria-master\Pizzaria-master\Pizzaria\bin\Debug\Microsoft.Data.Tools.Schema.Sql.UnitTesting.dll
+C:\Users\leona\Downloads\Pizzaria-master\Pizzaria-master\Pizzaria-master\Pizzaria\bin\Debug\Microsoft.Data.Tools.Schema.Sql.UnitTestingAdapter.dll
+C:\Users\leona\Downloads\Pizzaria-master\Pizzaria-master\Pizzaria-master\Pizzaria\bin\Debug\Microsoft.Data.Tools.Utilities.dll
+C:\Users\leona\Downloads\Pizzaria-master\Pizzaria-master\Pizzaria-master\Pizzaria\bin\Debug\Microsoft.SqlServer.TransactSql.ScriptDom.dll
+C:\Users\leona\Downloads\Pizzaria-master\Pizzaria-master\Pizzaria-master\Pizzaria\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\leona\Downloads\Pizzaria-master\Pizzaria-master\Pizzaria-master\Pizzaria\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\leona\Downloads\Pizzaria-master\Pizzaria-master\Pizzaria-master\Pizzaria\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\leona\Downloads\Pizzaria-master\Pizzaria-master\Pizzaria-master\Pizzaria\bin\Debug\pt-BR\Microsoft.Data.Tools.Schema.Sql.resources.dll
+C:\Users\leona\Downloads\Pizzaria-master\Pizzaria-master\Pizzaria-master\Pizzaria\bin\Debug\pt-BR\Microsoft.Data.Tools.Schema.Sql.UnitTesting.resources.dll
+C:\Users\leona\Downloads\Pizzaria-master\Pizzaria-master\Pizzaria-master\Pizzaria\bin\Debug\pt-BR\Microsoft.Data.Tools.Utilities.resources.dll
+C:\Users\leona\Downloads\Pizzaria-master\Pizzaria-master\Pizzaria-master\Pizzaria\bin\Debug\pt-BR\Microsoft.SqlServer.TransactSql.ScriptDom.resources.dll
+C:\Users\leona\Downloads\Pizzaria-master\Pizzaria-master\Pizzaria-master\Pizzaria\bin\Debug\pt-BR\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\leona\Downloads\Pizzaria-master\Pizzaria-master\Pizzaria-master\Pizzaria\obj\Debug\Pizzaria.vbproj.AssemblyReference.cache
+C:\Users\leona\Downloads\Pizzaria-master\Pizzaria-master\Pizzaria-master\Pizzaria\obj\Debug\Pizzaria.vbproj.SuggestedBindingRedirects.cache
+C:\Users\leona\Downloads\Pizzaria-master\Pizzaria-master\Pizzaria-master\Pizzaria\obj\Debug\Pizzaria.exe.config
+C:\Users\leona\Downloads\Pizzaria-master\Pizzaria-master\Pizzaria-master\Pizzaria\obj\Debug\Pizzaria.AdicionarPizza.resources
+C:\Users\leona\Downloads\Pizzaria-master\Pizzaria-master\Pizzaria-master\Pizzaria\obj\Debug\Pizzaria.Admin.resources
+C:\Users\leona\Downloads\Pizzaria-master\Pizzaria-master\Pizzaria-master\Pizzaria\obj\Debug\Pizzaria.Cadastro.resources
+C:\Users\leona\Downloads\Pizzaria-master\Pizzaria-master\Pizzaria-master\Pizzaria\obj\Debug\Pizzaria.CadastroCliente.resources
+C:\Users\leona\Downloads\Pizzaria-master\Pizzaria-master\Pizzaria-master\Pizzaria\obj\Debug\Pizzaria.Dashboard.resources
+C:\Users\leona\Downloads\Pizzaria-master\Pizzaria-master\Pizzaria-master\Pizzaria\obj\Debug\Pizzaria.EsqueciSenha.resources
+C:\Users\leona\Downloads\Pizzaria-master\Pizzaria-master\Pizzaria-master\Pizzaria\obj\Debug\Pizzaria.Form1.resources
+C:\Users\leona\Downloads\Pizzaria-master\Pizzaria-master\Pizzaria-master\Pizzaria\obj\Debug\Pizzaria.Form2.resources
+C:\Users\leona\Downloads\Pizzaria-master\Pizzaria-master\Pizzaria-master\Pizzaria\obj\Debug\Pizzaria.GerenciarCliente.resources
+C:\Users\leona\Downloads\Pizzaria-master\Pizzaria-master\Pizzaria-master\Pizzaria\obj\Debug\Pizzaria.GerenciarColab.resources
+C:\Users\leona\Downloads\Pizzaria-master\Pizzaria-master\Pizzaria-master\Pizzaria\obj\Debug\Pizzaria.Historico.resources
+C:\Users\leona\Downloads\Pizzaria-master\Pizzaria-master\Pizzaria-master\Pizzaria\obj\Debug\Pizzaria.HistoricoPedido.resources
+C:\Users\leona\Downloads\Pizzaria-master\Pizzaria-master\Pizzaria-master\Pizzaria\obj\Debug\Pizzaria.HistoricoSangria.resources
+C:\Users\leona\Downloads\Pizzaria-master\Pizzaria-master\Pizzaria-master\Pizzaria\obj\Debug\Pizzaria.Resources.resources
+C:\Users\leona\Downloads\Pizzaria-master\Pizzaria-master\Pizzaria-master\Pizzaria\obj\Debug\Pizzaria.Caixa.resources
+C:\Users\leona\Downloads\Pizzaria-master\Pizzaria-master\Pizzaria-master\Pizzaria\obj\Debug\Pizzaria.Pedido.resources
+C:\Users\leona\Downloads\Pizzaria-master\Pizzaria-master\Pizzaria-master\Pizzaria\obj\Debug\Pizzaria.Profile.resources
+C:\Users\leona\Downloads\Pizzaria-master\Pizzaria-master\Pizzaria-master\Pizzaria\obj\Debug\Pizzaria.Sangria.resources
+C:\Users\leona\Downloads\Pizzaria-master\Pizzaria-master\Pizzaria-master\Pizzaria\obj\Debug\Pizzaria.UserControl1.resources
+C:\Users\leona\Downloads\Pizzaria-master\Pizzaria-master\Pizzaria-master\Pizzaria\obj\Debug\Pizzaria.vbproj.GenerateResource.cache
+C:\Users\leona\Downloads\Pizzaria-master\Pizzaria-master\Pizzaria-master\Pizzaria\obj\Debug\Pizzaria.vbproj.CoreCompileInputs.cache
+C:\Users\leona\Downloads\Pizzaria-master\Pizzaria-master\Pizzaria-master\Pizzaria\obj\Debug\Pizzaria.vbproj.CopyComplete
+C:\Users\leona\Downloads\Pizzaria-master\Pizzaria-master\Pizzaria-master\Pizzaria\obj\Debug\Pizzaria.exe
+C:\Users\leona\Downloads\Pizzaria-master\Pizzaria-master\Pizzaria-master\Pizzaria\obj\Debug\Pizzaria.xml
+C:\Users\leona\Downloads\Pizzaria-master\Pizzaria-master\Pizzaria-master\Pizzaria\obj\Debug\Pizzaria.pdb
