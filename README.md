@@ -1,6 +1,6 @@
 # Pizza ao Quadrado :pizza:
 
-![Logo da Pizzaria Pizza Ao Quadrado](https://i.ibb.co/BZGj0Cw/Pizza-Ao-Quadrado.png)
+![logo](https://github.com/user-attachments/assets/90b2cbfc-1e04-43a9-921a-76e5a2530829 width="500" height="300")
 
 ![pizza](https://github.com/user-attachments/assets/0533b497-af72-44ab-bac7-df70a04f5173)
 
