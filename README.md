@@ -2,6 +2,10 @@
 
 ![Logo da Pizzaria Pizza Ao Quadrado](https://i.ibb.co/BZGj0Cw/Pizza-Ao-Quadrado.png)
 
+![pizza](https://github.com/user-attachments/assets/0533b497-af72-44ab-bac7-df70a04f5173)
+
+
+
 ## Sobre o Software
 Pizza ao Quadrado é um sistema inovador desenvolvido para gerenciar serviços de entrega de pizzas, otimizando o processo de produção e atendimento ao cliente. Este software foi criado para garantir qualidade e satisfação, atendendo às necessidades específicas da empresa Pizza ao Quadrado.
 
