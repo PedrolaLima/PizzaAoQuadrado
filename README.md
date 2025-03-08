@@ -1,8 +1,10 @@
 # Pizza ao Quadrado :pizza:
 
-<img src="https://github.com/user-attachments/assets/90b2cbfc-1e04-43a9-921a-76e5a2530829" width="700" height="700">
-
-![pizza](https://github.com/user-attachments/assets/0533b497-af72-44ab-bac7-df70a04f5173)
+<div style="text-align: center;">
+  <img src="https://github.com/user-attachments/assets/90b2cbfc-1e04-43a9-921a-76e5a2530829" width="500" height="500">
+  <br>
+  <img src="https://github.com/user-attachments/assets/0533b497-af72-44ab-bac7-df70a04f5173" width="500" height="500">
+</div>
 
 
 
